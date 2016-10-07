@@ -1,4 +1,4 @@
-//refactor of loadedDie without using IFFE pattern just to make sure I understand
+//refactor of loadedDie without using IIFE pattern just to make sure I understand
 //how each function is being invoked.
 
 function loadedDie() {
